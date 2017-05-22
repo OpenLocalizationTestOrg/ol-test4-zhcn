@@ -7,8 +7,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T02:08:27.7771772Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-zhcn\\shujia\\f7378acbed89bf16e06c0b7774943887f85160e8.a9d175520cf39f2277fc3d0044f613247c44f5d0.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-zhcn\\shujia\\ht\\729e5e2f-2429-4344-bdec-9d2d67b82b67.3da2f0f866f23e9a2f9fb1234b638ea118724000.zh-cn.xlf",
+      "LocXliffCommit": "9edc7f20c23927bb541a31d56818d4eaa6013f8e"
     },
     "e2e\\14f64019-da68-4340-9233-f9329e56b714.yml.7b13ebe021f8b76ae0f8287e490f193c10345015.HT": {
       "SourceFilename": "e2e\\14f64019-da68-4340-9233-f9329e56b714.yml",
@@ -17,8 +17,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T02:08:27.7761771Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-zhcn\\shujia\\c2d6af31c9a323cb4acd21c8e87675560a932548.98f077a6e14ecfe855c5c9a23e50b810bcc42a7f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-zhcn\\shujia\\ht\\14f64019-da68-4340-9233-f9329e56b714.76b4bf4e2c2d897cd93a205b8e037d8cf880db72.zh-cn.xlf",
+      "LocXliffCommit": "9edc7f20c23927bb541a31d56818d4eaa6013f8e"
     },
     "e2e\\e557a9b9-431d-48d4-8775-cfbe719ab9a2.md.d42f72ae924c5fbeda2e148e1783be907891e330.HT": {
       "SourceFilename": "e2e\\e557a9b9-431d-48d4-8775-cfbe719ab9a2.md",
@@ -27,8 +27,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2017-05-22T02:08:27.7771772Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test4-zhcn\\shujia\\743ece9567c9d67b2390010b9ac828fefd6d099c.141a5b616d868389d70791218055cb01c9c2531c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-zhcn\\shujia\\ht\\e557a9b9-431d-48d4-8775-cfbe719ab9a2.3010c438b5d95f2aeb8f23e8bfab54d549f7abb4.zh-cn.xlf",
+      "LocXliffCommit": "9edc7f20c23927bb541a31d56818d4eaa6013f8e"
     }
   }
 }
