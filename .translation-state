@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "b119c23701bd64bacf01c5c479d66a5e19dfc508",
+  "LastProcessedCommit": "11fe1ac3f33e94da562da1ef167f46344a9f4114",
   "LastTranslatedCommit": "57e2e5588d0bde3da945cc416668c059a4e63810",
   "LastTansformerVersion": "1.0-75ce113",
   "LastConfigHash": "6b643e2ae06dba1acb2ee7cb1c259b2e386d844f",
@@ -42,6 +42,21 @@
       "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\ol-test4-zhcn\\e2e\\ht\\8509edc2-8290-4d8e-bae0-1a55c178ac8b.ffc68f0aa9d9532ed84f61e5e3097df5201a779e.zh-cn.xlf",
       "ArchiveFileCommit": "09cb24bf0851530a99b499965c3c9c85f198b865",
       "ArchiveFileDateTime": "2018-02-28T11:38:18.4302885Z"
+    },
+    "1a6d4dbc96543d6497b923de8fd7c3385ca9978b": {
+      "FileHash": "1a6d4dbc96543d6497b923de8fd7c3385ca9978b",
+      "SourceFileCommit": "11fe1ac3f33e94da562da1ef167f46344a9f4114",
+      "SourceFilePath": "e2e\\8509edc2-8290-4d8e-bae0-1a55c178ac8b.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "e2e\\8509edc2-8290-4d8e-bae0-1a55c178ac8b.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test4-zhcn\\e2e\\ht\\8509edc2-8290-4d8e-bae0-1a55c178ac8b.ffc68f0aa9d9532ed84f61e5e3097df5201a779e.zh-cn.xlf",
+      "HandoffFileCommit": "9dc9dd8edf95dfe5bcf59fdde0dccfddc87d03f4",
+      "HandoffDateTime": "2018-02-28T11:39:28.5314798Z",
+      "HandoffXliffHash": "62a1669887b909a7efb418f489d0905a1f3826f5",
+      "HandoffPriority": "ht"
     }
   }
 }
