@@ -1,5 +1,6 @@
 {
   "LastProcessedCommit": "2ed1f06206c1ae22237b60455cf21e13971dfc47",
+  "LastTranslatedCommit": "b0d7ecb8615988a2dce7048a806f15ff7e3cc3f6",
   "LastTansformerVersion": "1.0-3be5d15",
   "LastConfigHash": "6b643e2ae06dba1acb2ee7cb1c259b2e386d844f",
   "Items": {
@@ -16,7 +17,13 @@
       "HandoffFileCommit": "172a93bbab8a776ad7277d2b19c89bb22bee8b17",
       "HandoffDateTime": "2018-03-08T19:41:50.5756278Z",
       "HandoffXliffHash": "37e3895ec2cf5a0cd5d138dfe057098eb9dd3227",
-      "HandoffPriority": "ht"
+      "HandoffPriority": "ht",
+      "TargetFileCommit": "b0d7ecb8615988a2dce7048a806f15ff7e3cc3f6",
+      "TargetFilePath": "e2e\\fa9defb8-9419-411a-8156-ead20580a9f8.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test4-zhcn\\qimu\\ht\\fa9defb8-9419-411a-8156-ead20580a9f8.3198b0bd91bf75f8d55dfd9a7097f656dbdbd338.zh-cn.xlf",
+      "HandbackFileCommit": "bbe3f5a326dcf4245f58627f316794472e3ec5d5",
+      "HandbackDateTime": "2018-03-08T19:44:23.0020421Z",
+      "UpdatedDateTime": "2018-03-08T19:44:23.0020421Z"
     },
     "dd6d2f871bf187c90878a67834511e4aead66ff5": {
       "FileHash": "dd6d2f871bf187c90878a67834511e4aead66ff5",
