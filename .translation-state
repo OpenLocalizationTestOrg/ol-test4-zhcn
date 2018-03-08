@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3482209a45cf52ebd53ce2b2e3a844ff78d80f38",
+  "LastProcessedCommit": "2ed1f06206c1ae22237b60455cf21e13971dfc47",
   "LastTansformerVersion": "1.0-3be5d15",
   "LastConfigHash": "6b643e2ae06dba1acb2ee7cb1c259b2e386d844f",
   "Items": {
@@ -16,6 +16,21 @@
       "HandoffFileCommit": "172a93bbab8a776ad7277d2b19c89bb22bee8b17",
       "HandoffDateTime": "2018-03-08T19:41:50.5756278Z",
       "HandoffXliffHash": "37e3895ec2cf5a0cd5d138dfe057098eb9dd3227",
+      "HandoffPriority": "ht"
+    },
+    "dd6d2f871bf187c90878a67834511e4aead66ff5": {
+      "FileHash": "dd6d2f871bf187c90878a67834511e4aead66ff5",
+      "SourceFileCommit": "2ed1f06206c1ae22237b60455cf21e13971dfc47",
+      "SourceFilePath": "e2e\\fa9defb8-9419-411a-8156-ead20580a9f8.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "e2e\\fa9defb8-9419-411a-8156-ead20580a9f8.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test4-zhcn\\qimu\\ht\\fa9defb8-9419-411a-8156-ead20580a9f8.3198b0bd91bf75f8d55dfd9a7097f656dbdbd338.zh-cn.xlf",
+      "HandoffFileCommit": "0183afee2dc8816ac8c213f71da4bb24f65318ef",
+      "HandoffDateTime": "2018-03-08T19:42:36.0385365Z",
+      "HandoffXliffHash": "63668f3184644867832940d4a2c854712829f785",
       "HandoffPriority": "ht"
     }
   }
